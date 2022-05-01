@@ -23,6 +23,7 @@ First, we trained the device to be able to recognize claps and not just any soun
 
 To enable ease of use, two working modes were configured in the device: Open mode and locked mode.  In open mode, it is assumed that the owner has direct use of the device at the moment and there is no need for security. At the lock mode, the owner presses a button on the device and any attempt to use the device will be reported to the owner, this is achieved using Twilio. The locked mode can be activated due to security and also child control reasons. 
 
+
 # Challenges we ran into
 The first challenge was setting up TensorFlow on a Linux-based computer like the Raspberry pi. The code-based doesn't have enough support so we had to find a way and eliminate all problems encountered. 
 
