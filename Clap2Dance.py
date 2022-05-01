@@ -1,4 +1,4 @@
-"""Main scripts to run audio classification and play the music"""
+"""Main scripts to run audio classification, take recording and play the music"""
 
 import argparse
 import time
