@@ -5,7 +5,7 @@ Hack the Dance Floor MLH Hackathon
 
 GODADDY: CLAP2DANCE.US
 
-DOMAIN.COM: BOND-CREDIT-BOND.TECH
+DOMAIN.COM: CLAP2DANCE.US
 
 #Inspiration
 
