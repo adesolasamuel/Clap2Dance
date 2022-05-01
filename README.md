@@ -45,3 +45,5 @@ We had a tough time managing time this weekend with our participation in this Ha
 # What's next for Clap2Dance
 
 Making it more user-friendly but building a GUI interface and providing more clapping options.
+
+Tutorial: https://github.com/adesolasamuel/Clap2Dance/blob/main/TutorialGuide.md
