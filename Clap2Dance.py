@@ -53,8 +53,6 @@ def run(model: str, max_results: int, score_threshold: float,
   pause_time = interval_between_inference * 0.1
   last_inference_time = time.time()
 
-  # Initialize a plotter instance to display the classification results.
-  plotter = Plotter()
 
   # Start audio recording in the background.
   audio_record.start_recording()
